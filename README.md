@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Java and Spring Boot
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on Java, Python and Spring Boot, React.js
+- 👯 I’m looking to collaborate on Java, Python, Spring Boot and React.js
 - 🤔 I’m looking for help with React.js
 - 📫 How to reach me: https://www.linkedin.com/in/apurv-gore/
 - 😄 Pronouns: He/Him
